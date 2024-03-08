@@ -1,0 +1,4 @@
+train: F:\Data\ganggui\train
+val: F:\Data\ganggui\val
+nc: 1
+names: [ "ganggui" ]
